@@ -145,6 +145,7 @@ h3 { margin-bottom: 13px; font-size: clamp(23px, 2.4vw, 29px); }
 .program-area article:nth-child(even) { padding-left: 28px; border-left: 1px solid var(--line); }
 .program-area h3 { font-size: 24px; }
 .program-area p { margin-bottom: 0; color: var(--muted); font-size: 14px; }
+.program-area article .eyebrow { margin-bottom: 10px; }
 .delivery-box { padding: 29px; background: var(--green-soft); border-left: 3px solid var(--green); }
 .delivery-box h3 { font-size: 23px; }
 .delivery-box p:last-child { margin-bottom: 0; }
